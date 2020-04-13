@@ -2,7 +2,7 @@
 Realizando o "Hello Word" usando o TensorFlow
 
 ## Este exemplo utiliza o python3 instalado em um VirtualEnv.
-    - Para verificar a versão do python em seu enviroment execute o seguinte comando:
+    Para verificar a versão do python em seu enviroment execute o seguinte comando:
     python --version
 
 ## Considerando que o python esteja instalado, será necessário instalar as seguintes dependências utilizando o pip:
